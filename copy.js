@@ -1,1 +1,1 @@
-/* var h3s = document.querySelectorAll(".h3-section h3"); */
+var h3s = document.querySelectorAll(".h3-section h3");
