@@ -4,7 +4,7 @@ VAR
     // Déclaration des variables (ingrédients)
     a, b, c: INTEGER;
     s: INTEGER;
-    counter: INTEGER;
+    counter01: INTEGER;
     _counter: INTEGER;
     Counter: INTEGER;
     counter1: INTEGER;
