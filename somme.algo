@@ -8,10 +8,10 @@ VAR
     _counter: INTEGER;
     Counter: INTEGER;
     counter1: INTEGER;
-    counter_1: INTEGER;
+    counter_10: INTEGER;
     hamid_khou_said: STRING;
 
-BEGIN
+BEGINx
     Read(a);
     Read(b);
     Read(c);
